@@ -29,7 +29,7 @@ Each project includes objectives, requirements, starter-code, rubric, and sugges
 
 | Unit | Project | Assigned | Deadline |
 | --- | --- | :---: | --- |
-| **Unit 1** | [Project 1](./unit-projects/project-1/readme.md) | [Assigned Lesson 1](../lessons/lesson-01/readme.md) | [Due Lesson 3](../lessons/lesson-03/readme.md) |
+| **Unit 1** | [Project 1](./unit-projects/project-1/readme.md) | [Assigned Lesson 2](../lessons/lesson-01/readme.md) | [Due Lesson 4](../lessons/lesson-03/readme.md) |
 | **Unit 1** | [Project 2](./unit-projects/project-2/readme.md) | [Assigned Lesson 3](../lessons/lesson-03/readme.md) | [Due Lesson 5](../lessons/lesson-05/readme.md) |
 | **Unit 2** | [Final Project, pt 1](./final-projects/01-lightning-talk/readme.md) | [Assigned Lesson 1](../lessons/lesson-01/readme.md) | [Due Lesson 8](../lessons/lesson-08/readme.md) |
 | **Unit 2** | [Project 3](./unit-projects/project-3/readme.md) | [Assigned Lesson 5](../lessons/lesson-05/readme.md) | [Due Lesson 9](../lessons/lesson-09/readme.md) |
@@ -52,10 +52,4 @@ In order to pass this course, General Assembly students **must**:
 
 - Complete and submit 80% of all course homework assignments.
 - Complete and submit the final project, including all 5 milestones.
-
-### Grading & Using GitHub in the Classroom
-
-You should be using GitHub for student-facing materials, project submission, feedback, and grading.
-
-> In addition to your own instructional instance repo, we recommend setting up a separate student-facing repo for the course. For information on [how to set up a student-facing repo, see these instructions](../resources/instructor-resources/github-repo-instance-guide.md).
 
